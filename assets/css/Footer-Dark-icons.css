@@ -56,10 +56,10 @@
 }
 
 .resp-img {
-  width: 100%;
-  /*min-width: 50%;*/
+  width: auto;
+  max-width: 95vw;
   height: auto;
-  /*max-height: 100vh !important;*/
+  max-height: 90vh !important;
   margin-top: 5px;
   margin-bottom: 5px;
   border-width: 2px;

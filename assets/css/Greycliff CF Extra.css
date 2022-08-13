@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'Greycliff CF Extra';
-	src: url(/assets/fonts/GreycliffCF-ExtraLight.eot?h=9fe2d8a489f9bcac61b53bd74c15272e) format('embedded-opentype'),
-	url(/assets/fonts/GreycliffCF-ExtraLight.eot?h=9fe2d8a489f9bcac61b53bd74c15272e) format('embedded-opentype'),
-	url(/assets/fonts/GreycliffCF-ExtraLight.woff2?h=9fe2d8a489f9bcac61b53bd74c15272e) format('woff2'),
-	url(/assets/fonts/GreycliffCF-ExtraLight.woff?h=9fe2d8a489f9bcac61b53bd74c15272e) format('woff'),
-	url(/assets/fonts/GreycliffCF-ExtraLight.ttf?h=9fe2d8a489f9bcac61b53bd74c15272e) format('truetype'),
-	url(/assets/fonts/GreycliffCF-ExtraLight.svg?h=9fe2d8a489f9bcac61b53bd74c15272e) format('svg');
+	src: url(../../assets/fonts/GreycliffCF-ExtraLight.eot?h=9fe2d8a489f9bcac61b53bd74c15272e) format('embedded-opentype'),
+	url(../../assets/fonts/GreycliffCF-ExtraLight.eot?h=9fe2d8a489f9bcac61b53bd74c15272e) format('embedded-opentype'),
+	url(../../assets/fonts/GreycliffCF-ExtraLight.woff2?h=9fe2d8a489f9bcac61b53bd74c15272e) format('woff2'),
+	url(../../assets/fonts/GreycliffCF-ExtraLight.woff?h=9fe2d8a489f9bcac61b53bd74c15272e) format('woff'),
+	url(../../assets/fonts/GreycliffCF-ExtraLight.ttf?h=9fe2d8a489f9bcac61b53bd74c15272e) format('truetype'),
+	url(../../assets/fonts/GreycliffCF-ExtraLight.svg?h=9fe2d8a489f9bcac61b53bd74c15272e) format('svg');
 	font-weight: 200;
 	font-style: normal;
 	font-display: swap;
