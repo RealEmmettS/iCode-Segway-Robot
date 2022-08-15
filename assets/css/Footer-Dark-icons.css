@@ -74,3 +74,16 @@
   margin-top: 5px;
 }
 
+.round-btn {
+  border-radius: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-family: 'Greycliff CF';
+  border-width: 1px;
+}
+
+..round-btn {
+}
+
