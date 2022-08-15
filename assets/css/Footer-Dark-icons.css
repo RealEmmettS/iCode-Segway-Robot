@@ -60,10 +60,17 @@
   max-width: 95vw;
   height: auto;
   max-height: 90vh !important;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  /*margin-top: 5px;*/
+  margin-bottom: 10px;
   border-width: 2px;
   border-color: black;
   border-style: solid;
+}
+
+.resp-p {
+  font-family: 'Greycliff CF Extra';
+  font-size: 14px;
+  margin: 0px;
+  margin-top: 5px;
 }
 
